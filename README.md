@@ -13,4 +13,4 @@ for solving the Traveling Salesman Problem (TSP).
 - small_instances / medium_instances / large_instances: TSPLIB instances
 - Notebooks: implementation and experiments
 - results.csv: experimental results
-- Compte rendu.pdf: project report (To benefit from the clickable links in the document, it is recommended to download the PDF.)
+- Compte rendu.pdf: project report (To access the clickable links in the document, it is recommended to download the PDF.)
